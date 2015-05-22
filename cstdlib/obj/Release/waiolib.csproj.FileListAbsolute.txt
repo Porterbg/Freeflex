@@ -1,0 +1,7 @@
+C:\Users\Max\Documents\C# .NET\cstdlib\bin\Release\waiolib.dll
+C:\Users\Max\Documents\C# .NET\cstdlib\bin\Release\waiolib.pdb
+C:\Users\Max\Documents\C# .NET\cstdlib\obj\Release\waiolib.csprojResolveAssemblyReference.cache
+C:\Users\Max\Documents\C# .NET\cstdlib\obj\Release\waiolib.SettingsPane.resources
+C:\Users\Max\Documents\C# .NET\cstdlib\obj\Release\waiolib.csproj.GenerateResource.Cache
+C:\Users\Max\Documents\C# .NET\cstdlib\obj\Release\waiolib.dll
+C:\Users\Max\Documents\C# .NET\cstdlib\obj\Release\waiolib.pdb

@@ -21,6 +21,7 @@ namespace Browser
         #endregion
 
         #region Integers
+        public string versionNumber = "0.1.2";
         public int ResX;
         public int ResY;
         #endregion
@@ -188,7 +189,7 @@ namespace Browser
 
         private void aboutWebBrowserToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("This Program was made by Max Wash.");
+            MessageBox.Show("Freeflex Web Browser version "+ versionNumber + ". " + "\n" + "Developed by Max Wash" );
         }
 
         private void nicholasCageToolStripMenuItem_Click(object sender, EventArgs e)

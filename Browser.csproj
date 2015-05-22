@@ -8,7 +8,7 @@
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Browser</RootNamespace>
-    <AssemblyName>Browser</AssemblyName>
+    <AssemblyName>Freeflex</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>icon.ico</ApplicationIcon>
+    <ApplicationIcon>freeflex.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -90,6 +90,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="changelog.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="freeflex.ico" />
     <Content Include="icon.ico" />
     <Content Include="ncage\ncage1.jpg" />
     <Content Include="ncage\ncage2.jpg" />
@@ -97,7 +101,7 @@
     <Content Include="ncage\ncage4.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\cstdlib\waiolib.csproj">
+    <ProjectReference Include="cstdlib\waiolib.csproj">
       <Project>{9c6f7fa9-3f4f-4f0a-87c7-b72f6fa4cb57}</Project>
       <Name>waiolib</Name>
     </ProjectReference>

@@ -1,0 +1,12 @@
+Freeflex Change Log
+Current (included) version: v0.1.2
+
+v0.1.2:
+- Bug fixing and polishing.
+- Added Changelog to download.
+
+v0.1.1:
+- Nothing.
+
+v0.1:
+- Initial Release.
