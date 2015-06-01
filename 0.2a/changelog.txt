@@ -1,0 +1,20 @@
+﻿Freeflex Web Browser Changelog
+Current (included) Version: 0.2a.
+
+Key:
+a = alpha
+e = experimental
+
+v0.2ae:
+- Added experimental tab functionality
+- Added ability to diable controls being locked during navigation (Debug menu).
+
+v0.1.2a:
+- Bug fixing and polishing.
+- Added Changelog to download.
+
+v0.1.1a:
+- Nothing.
+
+v0.1a:
+- Initial Release.

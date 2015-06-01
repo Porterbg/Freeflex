@@ -1,0 +1,5 @@
+C:\Users\Max\Documents\C# .NET\cstdlib\bin\Debug\cstdlib.dll
+C:\Users\Max\Documents\C# .NET\cstdlib\bin\Debug\cstdlib.pdb
+C:\Users\Max\Documents\C# .NET\cstdlib\obj\Debug\cstdlib.csprojResolveAssemblyReference.cache
+C:\Users\Max\Documents\C# .NET\cstdlib\obj\Debug\cstdlib.dll
+C:\Users\Max\Documents\C# .NET\cstdlib\obj\Debug\cstdlib.pdb

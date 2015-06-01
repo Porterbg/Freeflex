@@ -1,0 +1,13 @@
+C:\Users\Max\Documents\Freeflex\bin\Release\waiolib.dll
+C:\Users\Max\Documents\Freeflex\bin\Release\waiolib.pdb
+C:\Users\Max\Documents\Freeflex\obj\Release\Browser.MainWindow.resources
+C:\Users\Max\Documents\Freeflex\obj\Release\Browser.Properties.Resources.resources
+C:\Users\Max\Documents\Freeflex\obj\Release\Browser.settingsPane.resources
+C:\Users\Max\Documents\Freeflex\obj\Release\Browser.csproj.GenerateResource.Cache
+C:\Users\Max\Documents\Freeflex\bin\Release\Freeflex.exe.config
+C:\Users\Max\Documents\Freeflex\bin\Release\Freeflex.exe
+C:\Users\Max\Documents\Freeflex\bin\Release\Freeflex.pdb
+C:\Users\Max\Documents\Freeflex\obj\Release\Freeflex.exe
+C:\Users\Max\Documents\Freeflex\obj\Release\Freeflex.pdb
+C:\Users\Max\Documents\Freeflex\bin\Release\changelog.txt
+C:\Users\Max\Documents\Freeflex\obj\Release\Browser.csprojResolveAssemblyReference.cache

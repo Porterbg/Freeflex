@@ -1,0 +1,50 @@
+﻿Freeflex Web Browser Changelog
+Current (included) Version: 0.3.2a.
+
+v0.3.2a:
+- Added Gizoogle integration!
+- Added option to alert user on each phase of startup for debugging. It can only be activated in config.txt and is off by default
+- Default search engine can now be changed in settings. Current choices are Google and Gizoogle.
+Note: You'll need to delete your 'bin' folder and re-install the browser to use the new features.
+
+v0.3.1a:
+- Bug fixes
+- - Tabs created by user now scale with the window.
+
+v0.3a:
+- Tab functionality is no longer classed as experimental.
+- Program can now be installed from the options menu.
+- Alert to install program on startup removed.
+- Waiolib discontinued, and waiolib is no longer included with Freeflex.
+- 'Throw Exception' debug options removed.
+- All options related to waiolib removed.
+- Menu bar reorganised.
+- 'Navigate' renamed to 'Go'.
+- Minor filesize optimisations.
+- Bug Fixes:
+- - Reload button fixed.
+- - 'Installed:' label now fully on-screen.
+
+v0.2.2a:
+- Browser will now go to homepage (Default google.com) on startup.
+- Website urls are now shown on tabs.
+- Homepage can now be changed in the program (File > Settings).
+
+v0.2.1a:
+- Config file is now generated during installation.
+- Changed size of controls to be more uniform
+- Added Home button. Homepage can be changed in config file (/bin/config.txt).
+
+v0.2a:
+- Added experimental tab functionality
+- Added ability to diable controls being locked during navigation (Debug menu).
+
+v0.1.2a:
+- Bug fixing and polishing.
+- Added Changelog to download.
+
+v0.1.1a:
+- Nothing.
+
+v0.1a:
+- Initial Release.
